@@ -1,4 +1,4 @@
-# Project Planning Resources
+# Developer's Project Planning Resources
 
 - [20:80 - Small effort, big effect](#2080---small-effort-big-effect)
 - [Software Architecture](#software-architecture)
@@ -14,13 +14,31 @@
 
 ### Methods
 
+| Name                 | Description                                                                 | Link                                   |
+| -------------------- | --------------------------------------------------------------------------- | -------------------------------------- |
+| Getting Things Done® | A framework to keep your own thoughts organized - and your project on track | [Link](https://gettingthingsdone.com/) |
+
 ### Tools
+
+| Name | Description                                                             | Link                      |
+| ---- | ----------------------------------------------------------------------- | ------------------------- |
+| Miro | Online Whiteboard for collaborative planning, sketching and wireframing | [Link](https://miro.com/) |
+
 
 ## Software Architecture
 
 ### Methods
 
+| Name     | Description                               | Link                         |
+| -------- | ----------------------------------------- | ---------------------------- |
+| 4C Model | Plan your software stack from head to toe | [Link](https://c4model.com/) |
+
 ### Tools
+
+| Name                      | Description                              | Link                                                                        |
+| ------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
+| AWS Architecture Diagrams | Amazon's toolkit for software architects | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/ |
+
 
 ## Database Design
 
