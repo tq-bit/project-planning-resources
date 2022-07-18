@@ -76,7 +76,17 @@
 
 ### Methods
 
+| Name                 | Description                 | Link                                                       |
+| -------------------- | --------------------------- | ---------------------------------------------------------- |
+| Critical path method | A just-in-time PM algorithm | [Link](https://en.wikipedia.org/wiki/Critical_path_method) |
+
 ### Tools
+
+
+| Name  | Description                                                          | Link                       |
+| ----- | -------------------------------------------------------------------- | -------------------------- |
+| Asana | Online, collaborative PM tool with a bunch of integrations and tools | [Link](https://asana.com/) |
+
 
 ---
 
