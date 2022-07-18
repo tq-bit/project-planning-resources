@@ -12,18 +12,66 @@
 
 ## 20:80 - Small effort, big effect
 
+### Methods
+
+### Tools
+
 ## Software Architecture
+
+### Methods
+
+### Tools
 
 ## Database Design
 
+### Methods
+
+### Tools
+
+---
+
 ## API Design
+
+### Methods
+
+### Tools
+
+---
 
 ## Frontend Design
 
+### Methods
+
+### Tools
+
+---
+
 ## Waterfall Project Management
+
+### Methods
+
+### Tools
+
+---
 
 ## Agile Project Management
 
+### Methods
+
+### Tools
+
+---
+
 ## Communication & Collaboration
 
+### Methods
+
+### Tools
+
+---
+
 ## Templates & other Documents
+
+### Methods
+
+### Tools
