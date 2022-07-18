@@ -40,12 +40,15 @@
 | ------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
 | AWS Architecture Diagrams | Amazon's toolkit for software architects | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/) |
 
-
 ## Database Design
 
 ### Methods
 
 ### Tools
+
+| Name                   | Description                     | Link                              |
+| ---------------------- | ------------------------------- | --------------------------------- |
+| Diagrams.net (draw.io) | Open Source ER diagram software | [Link](https://app.diagrams.net/) |
 
 ---
 
@@ -86,6 +89,11 @@
 ### Methods
 
 ### Tools
+
+
+| Name       | Description                           | Link                            |
+| ---------- | ------------------------------------- | ------------------------------- |
+| Excalidraw | Open Source, e2e encrypted Whiteboard | [Link](https://excalidraw.com/) |
 
 ---
 
