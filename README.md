@@ -9,6 +9,7 @@
 - [Agile Project Management](#agile-project-management)
 - [Communication & Collaboration](#communication--collaboration)
 - [Templates & other Documents](#templates--other-documents)
+- [Physical Tools - Paid, DIY](#physical-tools---paid-diy)
 
 ## 20:80 - Small effort, big effect
 
@@ -35,9 +36,9 @@
 
 ### Tools
 
-| Name                      | Description                              | Link                                                                        |
-| ------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
-| AWS Architecture Diagrams | Amazon's toolkit for software architects | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/ |
+| Name                      | Description                              | Link                                                                         |
+| ------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
+| AWS Architecture Diagrams | Amazon's toolkit for software architects | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/) |
 
 
 ## Database Design
@@ -93,3 +94,9 @@
 ### Methods
 
 ### Tools
+
+## Physical Tools - Paid, DIY
+
+| Name    | Description                                    | Link                                         |
+| ------- | ---------------------------------------------- | -------------------------------------------- |
+| Bambook | A whiteboard-notebook that fits in your pocket | [Link](https://www.bambook.org/en/notebooks) |
