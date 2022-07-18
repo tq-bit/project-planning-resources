@@ -44,6 +44,10 @@
 
 ### Methods
 
+| Name | Description                                                         | Link                                       |
+| ---- | ------------------------------------------------------------------- | ------------------------------------------ |
+| ACID | (Computer Science) Four properties intended to ensure data validity | [Link](https://en.wikipedia.org/wiki/ACID) |
+
 ### Tools
 
 | Name                   | Description                     | Link                              |
