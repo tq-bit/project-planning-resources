@@ -4,7 +4,7 @@
 - [Waterfall Project Management](#waterfall-project-management)
 - [Agile Project Management](#agile-project-management)
 - [Communication & Collaboration](#communication--collaboration)
-- [Software Architecture](#software-architecture)
+- [Software Architecture & Planning](#software-architecture--planning)
 - [Templates & other Documents](#templates--other-documents)
 - [Physical Tools - Paid, DIY](#physical-tools---paid-diy)
 
@@ -32,9 +32,10 @@
 
 ### Tools
 
-| Name  | Description                                                          | Link                       |
-| ----- | -------------------------------------------------------------------- | -------------------------- |
-| Asana | Online, collaborative PM tool with a bunch of integrations and tools | [Link](https://asana.com/) |
+| Name          | Description                                                          | Link                                  |
+| ------------- | -------------------------------------------------------------------- | ------------------------------------- |
+| Asana         | Online, collaborative PM tool with a bunch of integrations and tools | [Link](https://asana.com/)            |
+| Project Libre | Open Source project management tool with a load of baked-in features | [Link](https://www.projectlibre.com/) |
 
 ---
 
@@ -52,13 +53,17 @@
 
 ### Tools
 
-| Name       | Description                                                           | Link                                                       |
-| ---------- | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Excalidraw | Open Source, e2e encrypted Whiteboard                                 | [Link](https://excalidraw.com/)                            |
-| Basecamp   | One-fits-all collaboration, team and project management tool          | [Link](https://basecamp.com/)                              |
-| Figma      | An online tool to plan and prototype your application collaboratively | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
+| Name       | Description                                                                | Link                                                       |
+| ---------- | -------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Excalidraw | Open Source, e2e encrypted Whiteboard                                      | [Link](https://excalidraw.com/)                            |
+| Basecamp   | One-fits-all collaboration, team and project management tool               | [Link](https://basecamp.com/)                              |
+| Figma      | An online tool to plan and prototype your application collaboratively      | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
+| Mattermost | Open Source chat & collaboration platform with on-prem variant             | [Link](https://mattermost.com/)                            |
+| Rocketchat | Open Source communication platform. Offers a lot(!) of integration options | [Link](https://rocket.chat/)                               |
 
-## Software Architecture
+---
+
+## Software Architecture & Planning
 
 ### Methods
 
@@ -79,10 +84,6 @@
 ---
 
 ## Templates & other Documents
-
-### Methods
-
-### Tools
 
 ## Physical Tools - Paid, DIY
 
