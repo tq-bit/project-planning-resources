@@ -67,12 +67,13 @@
 
 ### Methods
 
-| Name                 | Description                                                                                      | Link                                                       |
-| -------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 4C Model             | Plan your software stack from head to toe                                                        | [Link](https://c4model.com/)                               |
-| ACID                 | (Computer Science) Four recommended properties your database should have to ensure data validity | [Link](https://en.wikipedia.org/wiki/ACID)                 |
-| Data anonymisation   | Ensure your database structure complies with regulations like GDPR                               | [Link](https://en.wikipedia.org/wiki/Data_anonymization)   |
-| User Centered Design | A design framework that puts the user in the center of all concerns when developing a product    | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
+| Name                 | Description                                                                                      | Link                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| 4C Model             | Plan your software stack from head to toe                                                        | [Link](https://c4model.com/)                                     |
+| ACID                 | (Computer Science) Four recommended properties your database should have to ensure data validity | [Link](https://en.wikipedia.org/wiki/ACID)                       |
+| Data anonymisation   | Ensure your database structure complies with regulations like GDPR                               | [Link](https://en.wikipedia.org/wiki/Data_anonymization)         |
+| User Centered Design | A design framework that puts the user in the center of all concerns when developing a product    | [Link](https://en.wikipedia.org/wiki/User-centered_design)       |
+| Domain Driven Design | A methodology to develop specialized software in unfamiliar domains of knowledge                 | [Link](https://domaindrivendesign.org/ddd-domain-driven-design/) |
 
 ### Tools
 
