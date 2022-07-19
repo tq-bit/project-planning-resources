@@ -1,7 +1,7 @@
 # Developer's Project Planning Resources
 
 - [20:80 - Small effort, big effect](#2080---small-effort-big-effect)
-- [Software Architecture](#software-architecture)
+- [Software Architecture & Design](#software-architecture--design)
 - [Database Design](#database-design)
 - [API Design](#api-design)
 - [Frontend Design](#frontend-design)
@@ -26,13 +26,14 @@
 | Miro | Online Whiteboard for collaborative planning, sketching and wireframing | [Link](https://miro.com/) |
 
 
-## Software Architecture
+## Software Architecture & Design
 
 ### Methods
 
-| Name     | Description                               | Link                         |
-| -------- | ----------------------------------------- | ---------------------------- |
-| 4C Model | Plan your software stack from head to toe | [Link](https://c4model.com/) |
+| Name                 | Description                                      | Link                                                     |
+| -------------------- | ------------------------------------------------ | -------------------------------------------------------- |
+| 4C Model             | Plan your software stack from head to toe        | [Link](https://c4model.com/)                             |
+| Domain Driven Design | Make the right decisions when designing software | https://domaindrivendesign.org/ddd-domain-driven-design/ |
 
 ### Tools
 
