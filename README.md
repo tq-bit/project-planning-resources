@@ -25,53 +25,6 @@
 | ---- | ----------------------------------------------------------------------- | ------------------------- |
 | Miro | Online Whiteboard for collaborative planning, sketching and wireframing | [Link](https://miro.com/) |
 
-## Software Architecture
-
-### Methods
-
-| Name     | Description                               | Link                         |
-| -------- | ----------------------------------------- | ---------------------------- |
-| 4C Model | Plan your software stack from head to toe | [Link](https://c4model.com/) |
-
-### Tools
-
-| Name                      | Description                              | Link                                                                         |
-| ------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
-| AWS Architecture Diagrams | Amazon's toolkit for software architects | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/) |
-
-## Backend - Planning & Design
-
-### Methods
-
-| Name               | Description                                                                                      | Link                                                     |
-| ------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| ACID               | (Computer Science) Four recommended properties your database should have to ensure data validity | [Link](https://en.wikipedia.org/wiki/ACID)               |
-| Data anonymisation | Ensure your database structure complies with regulations like GDPR                               | [Link](https://en.wikipedia.org/wiki/Data_anonymization) |
-
-### Tools
-
-| Name                   | Description                     | Link                              |
-| ---------------------- | ------------------------------- | --------------------------------- |
-| Diagrams.net (draw.io) | Open Source ER diagram software | [Link](https://app.diagrams.net/) |
-
----
-
-## Frontend - Planning & Design
-
-### Methods
-
-| Name                 | Description                                                                                   | Link                                                       |
-| -------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| User Centered Design | A design framework that puts the user in the center of all concerns when developing a product | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
-
-### Tools
-
-| Name  | Description                                                           | Link                                                       |
-| ----- | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Figma | An online tool to plan and prototype your application collaboratively | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
-
----
-
 ## Waterfall Project Management
 
 ### Methods
@@ -102,10 +55,29 @@
 
 ### Tools
 
-| Name       | Description                                                  | Link                            |
-| ---------- | ------------------------------------------------------------ | ------------------------------- |
-| Excalidraw | Open Source, e2e encrypted Whiteboard                        | [Link](https://excalidraw.com/) |
-| Basecamp   | One-fits-all collaboration, team and project management tool | [Link](https://basecamp.com/)   |
+| Name       | Description                                                           | Link                                                       |
+| ---------- | --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Excalidraw | Open Source, e2e encrypted Whiteboard                                 | [Link](https://excalidraw.com/)                            |
+| Basecamp   | One-fits-all collaboration, team and project management tool          | [Link](https://basecamp.com/)                              |
+| Figma      | An online tool to plan and prototype your application collaboratively | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
+
+## Software Architecture
+
+### Methods
+
+| Name                 | Description                                                                                      | Link                                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| 4C Model             | Plan your software stack from head to toe                                                        | [Link](https://c4model.com/)                               |
+| ACID                 | (Computer Science) Four recommended properties your database should have to ensure data validity | [Link](https://en.wikipedia.org/wiki/ACID)                 |
+| Data anonymisation   | Ensure your database structure complies with regulations like GDPR                               | [Link](https://en.wikipedia.org/wiki/Data_anonymization)   |
+| User Centered Design | A design framework that puts the user in the center of all concerns when developing a product    | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
+
+### Tools
+
+| Name                      | Description                              | Link                                                                         |
+| ------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
+| AWS Architecture Diagrams | Amazon's toolkit for software architects | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/) |
+| Diagrams.net (draw.io)    | Open Source ER diagram software          | [Link](https://app.diagrams.net/)                                            |
 
 ---
 
