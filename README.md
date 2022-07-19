@@ -25,7 +25,6 @@
 | ---- | ----------------------------------------------------------------------- | ------------------------- |
 | Miro | Online Whiteboard for collaborative planning, sketching and wireframing | [Link](https://miro.com/) |
 
-
 ## Software Architecture
 
 ### Methods
@@ -40,13 +39,14 @@
 | ------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
 | AWS Architecture Diagrams | Amazon's toolkit for software architects | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/) |
 
-## Database Design
+## Backend - Planning & Design
 
 ### Methods
 
-| Name | Description                                                         | Link                                       |
-| ---- | ------------------------------------------------------------------- | ------------------------------------------ |
-| ACID | (Computer Science) Four properties intended to ensure data validity | [Link](https://en.wikipedia.org/wiki/ACID) |
+| Name               | Description                                                                                      | Link                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| ACID               | (Computer Science) Four recommended properties your database should have to ensure data validity | [Link](https://en.wikipedia.org/wiki/ACID)               |
+| Data anonymisation | Ensure your database structure complies with regulations like GDPR                               | [Link](https://en.wikipedia.org/wiki/Data_anonymization) |
 
 ### Tools
 
@@ -56,19 +56,19 @@
 
 ---
 
-## API Design
+## Frontend - Planning & Design
 
 ### Methods
 
-### Tools
-
----
-
-## Frontend Design
-
-### Methods
+| Name                 | Description                                                                                   | Link                                                       |
+| -------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| User Centered Design | A design framework that puts the user in the center of all concerns when developing a product | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
 
 ### Tools
+
+| Name  | Description                                                           | Link                                                       |
+| ----- | --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Figma | An online tool to plan and prototype your application collaboratively | [Link](https://en.wikipedia.org/wiki/User-centered_design) |
 
 ---
 
@@ -81,7 +81,6 @@
 | Critical path method | A just-in-time PM algorithm | [Link](https://en.wikipedia.org/wiki/Critical_path_method) |
 
 ### Tools
-
 
 | Name  | Description                                                          | Link                       |
 | ----- | -------------------------------------------------------------------- | -------------------------- |
@@ -102,7 +101,6 @@
 ### Methods
 
 ### Tools
-
 
 | Name       | Description                                                  | Link                            |
 | ---------- | ------------------------------------------------------------ | ------------------------------- |
