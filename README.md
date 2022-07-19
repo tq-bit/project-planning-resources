@@ -1,10 +1,20 @@
 # Developer's Project Planning Resources
 
 - [20:80 - Small effort, big effect](#2080---small-effort-big-effect)
+  - [Methods](#methods)
+  - [Tools](#tools)
 - [Waterfall Project Management](#waterfall-project-management)
+  - [Methods](#methods-1)
+  - [Tools](#tools-1)
 - [Agile Project Management](#agile-project-management)
+  - [Methods](#methods-2)
+  - [Tools](#tools-2)
 - [Communication & Collaboration](#communication--collaboration)
+  - [Methods](#methods-3)
+  - [Tools](#tools-3)
 - [Software Architecture & Planning](#software-architecture--planning)
+  - [Methods](#methods-4)
+  - [Tools](#tools-4)
 - [Templates & other Documents](#templates--other-documents)
 - [Physical Tools - Paid, DIY](#physical-tools---paid-diy)
 
@@ -26,9 +36,10 @@
 
 ### Methods
 
-| Name                 | Description                 | Link                                                       |
-| -------------------- | --------------------------- | ---------------------------------------------------------- |
-| Critical path method | A just-in-time PM algorithm | [Link](https://en.wikipedia.org/wiki/Critical_path_method) |
+| Name                 | Description                                                                                | Link                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| Critical path method | A just-in-time PM algorithm                                                                | [Link](https://en.wikipedia.org/wiki/Critical_path_method)       |
+| Six Sigma technique  | A collection of PM tools and methods, historically used to improve manufacturing processes | [Link](https://www.sixsigma-institute.org/What_Is_Six_Sigma.php) |
 
 ### Tools
 
