@@ -1,13 +1,10 @@
 # Developer's Project Planning Resources
 
 - [20:80 - Small effort, big effect](#2080---small-effort-big-effect)
-- [Software Architecture](#software-architecture)
-- [Database Design](#database-design)
-- [API Design](#api-design)
-- [Frontend Design](#frontend-design)
 - [Waterfall Project Management](#waterfall-project-management)
 - [Agile Project Management](#agile-project-management)
 - [Communication & Collaboration](#communication--collaboration)
+- [Software Architecture](#software-architecture)
 - [Templates & other Documents](#templates--other-documents)
 - [Physical Tools - Paid, DIY](#physical-tools---paid-diy)
 
