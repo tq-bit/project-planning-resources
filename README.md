@@ -97,6 +97,10 @@
 
 ## Templates & other Documents
 
+| Name    | Description                                    | Link                                         |
+| ------- | ---------------------------------------------- | -------------------------------------------- |
+| Untools | Tools for better thinking & decision making    | [Link](https://untools.co/) |
+
 ## Physical Tools - Paid, DIY
 
 | Name    | Description                                    | Link                                         |
