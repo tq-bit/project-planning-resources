@@ -61,6 +61,10 @@
 
 ### Tools
 
+| Name          | Description                              | Link                                                |
+| ------------- | ---------------------------------------- | --------------------------------------------------- |
+| Planning Poker| Abstract method to estimate dev efforts  | [Link](https://en.wikipedia.org/wiki/Planning_poker)|
+
 ---
 
 ## Communication & Collaboration
