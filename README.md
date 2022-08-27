@@ -54,6 +54,11 @@
 
 ### Methods
 
+
+| Name          | Description                              | Link                          |
+| ------------- | ---------------------------------------- | ----------------------------- |
+| Scrum         | A toolkit to deliver value incrementally | [Link](https://www.scrum.org/)|
+
 ### Tools
 
 ---
