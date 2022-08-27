@@ -62,6 +62,13 @@
 
 ### Methods
 
+
+| Name       | Description                                                                | Link                       |
+| ---------- | ------------------------------------------------------------------------------------------------ | ---- |
+| The four-sides model | What's spoken is not meant. What's meant is not heard. What's heard is not understood. | [Link](https://en.wikipedia.org/wiki/Four-sides_model) |
+
+
+
 ### Tools
 
 | Name       | Description                                                                | Link                                                       |
