@@ -54,13 +54,29 @@
 
 ### Methods
 
+
+| Name  | Description                              | Link                           |
+| ----- | ---------------------------------------- | ------------------------------ |
+| Scrum | A toolkit to deliver value incrementally | [Link](https://www.scrum.org/) |
+
 ### Tools
+
+| Name           | Description                             | Link                                                 |
+| -------------- | --------------------------------------- | ---------------------------------------------------- |
+| Planning Poker | Abstract method to estimate dev efforts | [Link](https://en.wikipedia.org/wiki/Planning_poker) |
 
 ---
 
 ## Communication & Collaboration
 
 ### Methods
+
+
+| Name                 | Description                                                                            | Link                                                   |
+| -------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| The four-sides model | What's spoken is not meant. What's meant is not heard. What's heard is not understood. | [Link](https://en.wikipedia.org/wiki/Four-sides_model) |
+
+
 
 ### Tools
 
@@ -97,10 +113,6 @@
 
 ## Templates & other Documents
 
-
-| Name                     | Description                                          | Link     |
-| ------------------------ | ---------------------------------------------------- | -------- |
-| Functional Specification | A standard template to formulate your client's needs | [Link]() |
 ## Physical Tools - Paid, DIY
 
 | Name    | Description                                    | Link                                         |
