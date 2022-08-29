@@ -76,8 +76,6 @@
 | -------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | The four-sides model | What's spoken is not meant. What's meant is not heard. What's heard is not understood. | [Link](https://en.wikipedia.org/wiki/Four-sides_model) |
 
-
-
 ### Tools
 
 | Name       | Description                                                                | Link                                                       |
@@ -112,6 +110,11 @@
 ---
 
 ## Templates & other Documents
+
+| Name    | Description                                 | Link                        |
+| ------- | ------------------------------------------- | --------------------------- |
+| Untools | Tools for better thinking & decision making | [Link](https://untools.co/) |
+
 
 ## Physical Tools - Paid, DIY
 
