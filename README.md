@@ -102,10 +102,12 @@
 
 ### Tools
 
-| Name                      | Description                              | Link                                                                         |
-| ------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
-| AWS Architecture Diagrams | Amazon's toolkit for software architects | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/) |
-| Diagrams.net (draw.io)    | Open Source ER diagram software          | [Link](https://app.diagrams.net/)                                            |
+| Name                            | Description                                 | Link                                                                                                              |
+| ------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| AWS Architecture Diagrams       | Amazon's toolkit for software architects    | [Link](https://aws.amazon.com/architecture/reference-architecture-diagrams/)                                      |
+| Microsoft Architecture Diagrams | Microsoft's toolkit for software architects | [Link](https://docs.microsoft.com/en-us/microsoft-365/solutions/architecture-icons-templates?view=o365-worldwide) |
+| Google Architecture Diagrams    | Google's toolkit for software architects    | [Link](https://cloud.google.com/icons/)                                                                           |
+| Diagrams.net (draw.io)          | Open Source ER diagram software             | [Link](https://app.diagrams.net/)                                                                                 |
 
 ---
 
