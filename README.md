@@ -97,6 +97,10 @@
 
 ## Templates & other Documents
 
+
+| Name                     | Description                                          | Link     |
+| ------------------------ | ---------------------------------------------------- | -------- |
+| Functional Specification | A standard template to formulate your client's needs | [Link]() |
 ## Physical Tools - Paid, DIY
 
 | Name    | Description                                    | Link                                         |
